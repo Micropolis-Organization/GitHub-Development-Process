@@ -18,7 +18,7 @@
 1. Create a repository to the project.
 2. Assign team to the repository with the access permissions.
 3. Create an organization project.
-4. Create issues for every tasks within the project and assign them to the members of the team.
+4. Create issues for every tasks within the project and assign them to the members of the team and assign them to the project.
 
 #### 1. GitHub Organization
 ##### 1.1 About organization
