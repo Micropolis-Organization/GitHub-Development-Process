@@ -15,10 +15,12 @@
 2. Assign members to the organization.
 3. Assign members of the organization into teams.
 ## Process to follow with every new project
-1. Create a repository to the project.
+1. Create a repository for the project.
 2. Assign team to the repository with the access permissions.
 3. Create an organization project.
-4. Create issues for every tasks within the project and assign them to the members of the team and assign them to the project.
+4. Create issues for every task within the project and assign them to the members of the team and assign them to the organization project.
+5. After finishing each issue raise a pull request with issue id # and the state of the issue (fixed,close,..).
+6. commit the change and push them to the main branch of the project or if you are working on a seprate branch merge it with the main branch.
 
 #### 1. GitHub Organization
 ##### 1.1 About organization
@@ -64,3 +66,29 @@
 5. When prompted to select a template, click a template or, to start with an empty project, click Table or Board. Then, click Create.
 
 ![This is an image](https://docs.github.com/assets/cb-46006/images/help/issues/projects-select-template.png)
+
+#### 3. GitHub teams
+##### 3.1 About teams
+1. Teams are groups of organization members that reflect your company or group's structure with cascading access permissions and mentions.
+2. Organization owners and team maintainers can give teams admin, read, or write access to organization repositories. Organization members can send a notification to an entire team by mentioning the team's name. Organization members can also send a notification to an entire team by requesting a review from that team. Organization members can request reviews from specific teams with read access to the repository where the pull request is opened. Teams can be designated as owners of certain types or areas of code in a CODEOWNERS file.
+
+##### 3.2 Creating new organization teams
+1. In the top right corner of GitHub.com, click your profile photo, then click Your organizations.
+![This is an image](https://docs.github.com/assets/cb-10767/images/help/profile/your-organizations.png)
+2. Click the name of your organization.
+![This is an image](https://docs.github.com/assets/cb-5513/images/help/organizations/org-settings-link.png)
+3. Under your organization name, click  Teams.
+![This is an image](https://docs.github.com/assets/cb-18161/images/help/organizations/organization-teams-tab-with-overview.png)
+4. On the right side of the Teams tab, click New team.
+![This is an image](https://docs.github.com/assets/cb-16221/images/help/teams/new-team-button.png)
+5. Under "Create new team", type the name for your new team.
+![This is an image](https://docs.github.com/assets/cb-13466/images/help/teams/org-new-team-name.png)
+6. Optionally, in the "Description" field, type a description of the team.
+![This is an image](https://docs.github.com/assets/cb-13311/images/help/teams/org-team-description.png)
+7. Optionally, if you're creating a child team, use the drop-down menu to choose a parent team for your new team.
+![This is an image](https://docs.github.com/assets/cb-13924/images/help/teams/choose-parent-team.png)
+8. Decide whether the team will be visible or secret.
+![This is an image](https://docs.github.com/assets/cb-20485/images/help/teams/new-team-visibility.png)
+9. Click Create team.
+10. Optionally, give the team access to organization repositories.
+
