@@ -28,6 +28,8 @@
 ##### 2.1 About projects
 - A project is an adaptable spreadsheet that integrates with your issues and pull requests on GitHub to help you plan and track your work effectively. You can create and customize multiple views by filtering, sorting, grouping your issues and pull requests, adding custom fields to track metadata specific to your team, and visualize work with configurable charts. Rather than enforcing a specific methodology, a project provides flexible features you can customize to your team’s needs and processes.
 - Your projects are built from the issues and pull requests you add, creating direct references between your project and your work. Information is synced automatically to your project as you make changes, updating your views and charts. This integration works both ways, so that when you change information about a pull request or issue in your project, the pull request or issue reflects that information. For example, change an assignee in your project and that change is shown in your issue. You can take this integration even further, group your project by assignee, and make changes to issue assignment by dragging issues into the different groups.
+
+
 ##### 2.2 Creating new organization project
 1. In the top right corner of GitHub.com, click your profile photo, then click **Your organizations**.
 ![This is an image](https://docs.github.com/assets/cb-10767/images/help/profile/your-organizations.png)
