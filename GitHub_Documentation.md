@@ -22,3 +22,4 @@
 2. In the "Access" section of the sidebar, click  Organizations.
 3. In the "Organizations" section, click New organization. 
 ![This is an image](https://docs.github.com/assets/cb-11403/images/help/settings/new-org-button.png)
+4. Follow the prompts to create your organization.
