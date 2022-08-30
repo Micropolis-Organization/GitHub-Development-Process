@@ -12,7 +12,7 @@
 
 - [***ROS2 Cheat Sheet***](#ros2-cheat-sheet)
   - [References](#references)
-  - [1. Environment](#1-environment)
+  - [1. GitHub Organiztion](#1-GitHub Organization)
   - [2. ROS2 Nodes](#2-ros2-nodes)
   - [3. ROS2 Topics](#3-ros2-topics)
   - [4. ROS2 Services](#4-ros2-services)
