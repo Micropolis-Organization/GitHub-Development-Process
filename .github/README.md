@@ -1,1 +1,1 @@
-../docs/GitHub/GitHub-Doc.md
+../GitHub_Documentation.md
