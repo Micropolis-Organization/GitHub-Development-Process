@@ -17,8 +17,8 @@
 - You can invite an unlimited number of people to join your organization, then give these organization members a variety of roles that grant different levels of access to the organization and its data.
 - In addition to managing access to the organization itself, you can separately manage access to your organization's repositories, project boards, and apps.
 ##### 1.2 Creating new organization
-1 In the upper-right corner of any page, click your profile photo, then click Settings.
+1. In the upper-right corner of any page, click your profile photo, then click Settings.
 ![This is an image](https://docs.github.com/assets/cb-34573/images/help/settings/userbar-account-settings.png)
-2 In the "Access" section of the sidebar, click  Organizations.
-3 In the "Organizations" section, click New organization. 
+2. In the "Access" section of the sidebar, click  Organizations.
+3. In the "Organizations" section, click New organization. 
 ![This is an image](https://docs.github.com/assets/cb-11403/images/help/settings/new-org-button.png)
