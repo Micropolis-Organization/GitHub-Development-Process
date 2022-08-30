@@ -10,4 +10,4 @@
 
 ---
 #### 1. GitHub Organization
-###1.1 About organization
+### 1.1 About organization
