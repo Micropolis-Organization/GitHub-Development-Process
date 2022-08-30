@@ -12,4 +12,8 @@
 #### 1. GitHub Organization
 ##### 1.1 About organization
 
-Organizations are shared accounts where businesses and open-source projects can collaborate across many projects at once, with sophisticated security and administrative features.
+- Organizations are shared accounts where businesses and open-source projects can collaborate across many projects at once, with sophisticated security and administrative features.
+- Each person that uses GitHub always signs into a personal account, and multiple personal accounts can collaborate on shared projects by joining the same organization account. A subset of these personal accounts can be given the role of organization owner, which allows those people to granularly manage access to the organization's resources using sophisticated security and administrative features.
+- You can invite an unlimited number of people to join your organization, then give these organization members a variety of roles that grant different levels of access to the organization and its data.
+- In addition to managing access to the organization itself, you can separately manage access to your organization's repositories, project boards, and apps.
+##### 1.2 Creating new organization
