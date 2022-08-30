@@ -1,1 +1,1 @@
-/GitHub_Documentation.md
+/GitHub-Development-Process/GitHub_Documentation.md
