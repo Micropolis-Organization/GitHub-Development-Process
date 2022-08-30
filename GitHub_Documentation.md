@@ -9,6 +9,8 @@
 4. [https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests](https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests)
 
 ---
+### ** Process to follow when working on new project ** 
+
 #### 1. GitHub Organization
 ##### 1.1 About organization
 
