@@ -34,11 +34,15 @@
 
 ##### 2.2 Creating new organization project
 1. In the top right corner of GitHub.com, click your profile photo, then click **Your organizations**.
+
 ![This is an image](https://docs.github.com/assets/cb-10767/images/help/profile/your-organizations.png)
+
 2. Click the name of your organization.
 ![This is an image](https://docs.github.com/assets/cb-5513/images/help/organizations/org-settings-link.png)
+
 3. Under your organization name, click  Projects.
 ![This is an image](https://docs.github.com/assets/cb-9264/images/help/projects-v2/tab-projects.png)
+
 4. Click New project.
-5. When prompted to select a template, click a template or, to start with an empty project, click Table or Board. Then, click Create.
+5.When prompted to select a template, click a template or, to start with an empty project, click Table or Board. Then, click Create.
 ![This is an image](https://docs.github.com/assets/cb-46006/images/help/issues/projects-select-template.png)
