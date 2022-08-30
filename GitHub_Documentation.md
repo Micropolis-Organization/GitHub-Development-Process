@@ -74,21 +74,40 @@
 
 ##### 3.2 Creating new organization teams
 1. In the top right corner of GitHub.com, click your profile photo, then click Your organizations.
+
+
 ![This is an image](https://docs.github.com/assets/cb-10767/images/help/profile/your-organizations.png)
+
+
 2. Click the name of your organization.
+
 ![This is an image](https://docs.github.com/assets/cb-5513/images/help/organizations/org-settings-link.png)
+
 3. Under your organization name, click  Teams.
+
 ![This is an image](https://docs.github.com/assets/cb-18161/images/help/organizations/organization-teams-tab-with-overview.png)
+
 4. On the right side of the Teams tab, click New team.
+
 ![This is an image](https://docs.github.com/assets/cb-16221/images/help/teams/new-team-button.png)
+
 5. Under "Create new team", type the name for your new team.
+
 ![This is an image](https://docs.github.com/assets/cb-13466/images/help/teams/org-new-team-name.png)
+
 6. Optionally, in the "Description" field, type a description of the team.
+
 ![This is an image](https://docs.github.com/assets/cb-13311/images/help/teams/org-team-description.png)
+
 7. Optionally, if you're creating a child team, use the drop-down menu to choose a parent team for your new team.
+
 ![This is an image](https://docs.github.com/assets/cb-13924/images/help/teams/choose-parent-team.png)
+
 8. Decide whether the team will be visible or secret.
+
 ![This is an image](https://docs.github.com/assets/cb-20485/images/help/teams/new-team-visibility.png)
+
 9. Click Create team.
+
 10. Optionally, give the team access to organization repositories.
 
