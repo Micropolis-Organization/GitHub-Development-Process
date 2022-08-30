@@ -1,4 +1,4 @@
-### *** GitHub development process ***
+### *** Software Development Process using GitHub ***
 
 ---
 
