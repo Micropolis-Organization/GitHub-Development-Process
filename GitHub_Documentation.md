@@ -20,9 +20,7 @@
 - In addition to managing access to the organization itself, you can separately manage access to your organization's repositories, project boards, and apps.
 ##### 1.2 Creating new organization
 1. In the upper-right corner of any page, click your profile photo, then click Settings.
-
 ![This is an image](https://docs.github.com/assets/cb-34573/images/help/settings/userbar-account-settings.png)
-
 2. In the "Access" section of the sidebar, click  Organizations.
 3. In the "Organizations" section, click New organization. 
 ![This is an image](https://docs.github.com/assets/cb-11403/images/help/settings/new-org-button.png)
@@ -37,7 +35,12 @@
 ##### 2.2 Creating new organization project
 
 1. In the top right corner of GitHub.com, click your profile photo, then click Your organizations.
+
 ![This is an image](https://docs.github.com/assets/cb-10767/images/help/profile/your-organizations.png)
+
+
+
+
 
 2. Click the name of your organization.
 ![This is an image](https://docs.github.com/assets/cb-5513/images/help/organizations/org-settings-link.png)
