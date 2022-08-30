@@ -1,9 +1,9 @@
-### ***ROS2 Cheat Sheet***
+### *** GitHub development process ***
 
 ---
 
 #### References
-1. [https://docs.ros.org/en/foxy/Tutorials.html](https://docs.ros.org/en/foxy/Tutorials.html)
+1. [https://docs.github.com/en/organizations/collaborating-with-groups-in-organizations/about-organizations](https://docs.github.com/en/organizations/collaborating-with-groups-in-organizations/about-organizations)
 2. [https://docs.ros2.org/latest/api/rclpy/index.html](https://docs.ros2.org/latest/api/rclpy/index.html)
 3. [https://docs.ros.org/en/foxy/How-To-Guides/Launch-file-different-formats.html](https://docs.ros.org/en/foxy/How-To-Guides/Launch-file-different-formats.html)
 4. [https://roboticsbackend.com/rclpy-params-tutorial-get-set-ros2-params-with-python](https://roboticsbackend.com/rclpy-params-tutorial-get-set-ros2-params-with-python/#Going_further_with_ROS2_params)
