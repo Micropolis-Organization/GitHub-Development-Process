@@ -4,9 +4,9 @@
 
 #### References
 1. [https://docs.github.com/en/organizations/collaborating-with-groups-in-organizations/about-organizations](https://docs.github.com/en/organizations/collaborating-with-groups-in-organizations/about-organizations)
-2. [https://docs.ros2.org/latest/api/rclpy/index.html](https://docs.ros2.org/latest/api/rclpy/index.html)
-3. [https://docs.ros.org/en/foxy/How-To-Guides/Launch-file-different-formats.html](https://docs.ros.org/en/foxy/How-To-Guides/Launch-file-different-formats.html)
-4. [https://roboticsbackend.com/rclpy-params-tutorial-get-set-ros2-params-with-python](https://roboticsbackend.com/rclpy-params-tutorial-get-set-ros2-params-with-python/#Going_further_with_ROS2_params)
+2. [https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/about-projects](https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/about-projects)
+3. [https://docs.github.com/en/organizations/organizing-members-into-teams/about-teams](https://docs.github.com/en/organizations/organizing-members-into-teams/about-teams)
+4. [https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests](https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests)
 
 ---
 
