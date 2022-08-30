@@ -10,7 +10,7 @@
 
 ---
 
-- [***ROS2 Cheat Sheet***](#ros2-cheat-sheet)
+- [***GitHub development process***](#GitHub development process)
   - [References](#references)
   - [1. GitHub Organiztion](#1-GitHub Organization)
   - [2. ROS2 Nodes](#2-ros2-nodes)
