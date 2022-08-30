@@ -111,3 +111,9 @@
 
 10. Optionally, give the team access to organization repositories.
 
+#### 4. GitHub issues
+##### 4.1 About teams
+1. With issue and pull request templates, you can customize and standardize the information you'd like contributors to include when they open issues and pull requests in your repository.
+2. After you create issue and pull request templates in your repository, contributors can use the templates to open issues or describe the proposed changes in their pull requests according to the repository's contributing guidelines. 
+3. You can create default issue and pull request templates for your organization or personal account. 
+
