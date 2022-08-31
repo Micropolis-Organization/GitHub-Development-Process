@@ -14,7 +14,7 @@
 - [***Contents***](#contents)
   - [References](#references)
   - [1. GitHub Organization](#1-gitHub-organization)
-  - [2. GitHub Organization](#2-gitHub-organization)
+  - [2. GitHub Projects](#2-gitHub-projects)
   - [3. ROS2 Topics](#3-ros2-topics)
   - [4. ROS2 Services](#4-ros2-services)
   - [5. ROS2 Parameters](#5-ros2-parameters)
