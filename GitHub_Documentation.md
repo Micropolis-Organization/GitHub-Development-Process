@@ -28,15 +28,15 @@
 1. Create a repository for the project.
 2. Assign team to the repository with the access permissions.
 3. Create an organization project.
-4. Create issues for every task within the project and for each issue
-      - Assign the issue to a team member. 
-      - Assign the issue to an organization project.
+4. Create issue for every task within the project and for each issue
+      - Assign issue to a team member. 
+      - Assign issue to an organization project.
       - Assign label to the issue (bug,enhancment, etc..).
       - Assign a milestone to the issue.
                                                         
-5. After finishing each issue, commit the change with the status of the issue (fixed,close,..).
+5.  After finishing each issue, commit the change with the status of the issue (fixed,close,..).
 6.  Make a pull request and link it with issue #id.
-7.  After your pull request being reviewed by you or the team leader, If there is no conflict between branches, merge to the main branch. 
+7.  After your pull request being reviewed by you or your team leader and, If there is no conflict between branches, merge to the main branch. 
 
 #### 1. GitHub Organization
 ##### 1.1 About organization
