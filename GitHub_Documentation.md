@@ -19,7 +19,7 @@
   - [4. GitHub issues](#4-gitHub-issues)
   - [5. GitHub pull requests](#5-gitHub-pull-requests)
 
-## Process to follow when working on new project  
+## Process to follow when working on a new project  
 ### Process to follow for the first time
 1. Creat an organization 
 2. Assign members to the organization.
