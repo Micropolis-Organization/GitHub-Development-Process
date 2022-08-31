@@ -10,7 +10,7 @@
 5. [https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)
 
 ---
-- [***ROS2 Cheat Sheet***](#ros2-cheat-sheet)
+- [***GitHub Topics***](#ros2-cheat-sheet)
   - [References](#references)
 
 ### ** Process to follow when working on new project ** 
