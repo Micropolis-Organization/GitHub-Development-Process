@@ -14,6 +14,7 @@
 - [***Contents***](#contents)
   - [References](#references)
   - [1. GitHub Organization](#1-gitHub-organization)
+  - [1.1 About organization](#1-about-organization)
   - [2. GitHub Projects](#2-gitHub-projects)
   - [3. GitHub teams](#3-gitHub-teams)
   - [4. GitHub issues](#4-gitHub-issues)
