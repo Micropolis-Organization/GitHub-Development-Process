@@ -12,6 +12,7 @@
 ---
 ## Contents
 - [***Contents***](#contents)
+  - [Process to follow when working on a new project](#process-to-follow-when-working-on-a-new-project)
   - [References](#references)
   - [1. GitHub Organization](#1-gitHub-organization)
   - [2. GitHub Projects](#2-gitHub-projects)
