@@ -1,4 +1,4 @@
-### *** Software Development Process using GitHub ***
+### Software Development Process using GitHub 
 
 ---
 
@@ -10,9 +10,10 @@
 5. [https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)
 
 ---
+# Contents
+ - [GitHub Organization](#gitHub-organization) 
 
-
-### ** Process to follow when working on new project ** 
+### Process to follow when working on new project  
 ## Process to follow for the first time
 1. Creat an organization 
 2. Assign members to the organization.
