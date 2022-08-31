@@ -11,9 +11,9 @@
 
 ---
 # Contents
- - [GitHub Organization](#gitHub-organization)
- - [GitHub Projects](#gitHub-projects) 
- - [GitHub Organization](#gitHub-organization) 
+ - [GitHub Organization](#1. gitHub-organization)
+ - [GitHub Projects](#2. gitHub-projects) 
+ - [GitHub teams](#3.GitHub-teams) 
  - [GitHub Organization](#gitHub-organization) 
  - [GitHub Organization](#gitHub-organization) 
  - [GitHub Organization](#gitHub-organization)  
