@@ -7,6 +7,7 @@
 2. [https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/about-projects](https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/about-projects)
 3. [https://docs.github.com/en/organizations/organizing-members-into-teams/about-teams](https://docs.github.com/en/organizations/organizing-members-into-teams/about-teams)
 4. [https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests](https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests)
+5. [https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)
 
 ---
 ### ** Process to follow when working on new project ** 
@@ -144,3 +145,33 @@ Or, click Open a blank issue if the type of issue you'd like to open isn't inclu
 6. If you're a project maintainer, you can assign the issue to someone, add it to a project board, associate it with a milestone, or apply a label.
 
 7. When you're finished, click Submit new issue.
+
+#### 5. GitHub pull requests
+##### 5.1 About pull requests
+1. Pull requests let you tell others about changes you've pushed to a branch in a repository on GitHub. Once a pull request is opened, you can discuss and review the potential changes with collaborators and add follow-up commits before your changes are merged into the base branch.
+2. You can create pull requests on GitHub.com, with GitHub Desktop, in GitHub Codespaces, on GitHub Mobile, and when using GitHub CLI. After initializing a pull request, you'll see a review page that shows a high-level overview of the changes between your branch (the compare branch) and the repository's base branch. You can add a summary of the proposed changes, review the changes made by commits, add labels, milestones, and assignees, and @mention individual contributors or teams.
+3. Once you've created a pull request, you can push commits from your topic branch to add them to your existing pull request. These commits will appear in chronological order within your pull request and the changes will be visible in the "Files changed" tab. Other contributors can review your proposed changes, add review comments, contribute to the pull request discussion, and even add commits to the pull request.
+
+##### 5.2 Creating a pull request
+1. On GitHub.com, navigate to the main page of the repository.
+2. In the "Branch" menu, choose the branch that contains your commits.
+
+![branch-dropdown](https://user-images.githubusercontent.com/108261855/187610772-6d68d4e0-0c5c-47ef-903f-f2e60b7f57eb.png)
+
+3. Above the list of files, click  Pull request.
+
+![pull-request-start-review-button](https://user-images.githubusercontent.com/108261855/187610829-676086bf-054a-4a4d-8c86-7ec7a9e5f1a9.png)
+
+4. Use the base branch dropdown menu to select the branch you'd like to merge your changes into, then use the compare branch drop-down menu to choose the topic branch you made your changes in.
+
+![choose-base-and-compare-branches](https://user-images.githubusercontent.com/108261855/187610893-615f0dd8-d1dd-4916-9cf7-1e1835ad7840.png)
+
+5. Type a title and description for your pull request.
+
+![pullrequest-description](https://user-images.githubusercontent.com/108261855/187610965-e417c739-bb63-413a-b9bb-a93f87244892.png)
+
+6. To create a pull request that is ready for review, click Create Pull Request. To create a draft pull request, use the drop-down and select Create Draft Pull Request, then click Draft Pull Request.
+
+![pullrequest-send](https://user-images.githubusercontent.com/108261855/187611040-cfa98b31-0250-4bd4-8923-03155803e4ff.png)
+
+7. After your pull request has been reviewed, it can be merged into the repository.
