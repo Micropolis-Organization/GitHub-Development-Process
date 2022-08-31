@@ -1,8 +1,8 @@
-### Software Development Process using GitHub 
+# Software Development Process using GitHub 
 
 ---
 
-# References
+## References
 1. [https://docs.github.com/en/organizations/collaborating-with-groups-in-organizations/about-organizations](https://docs.github.com/en/organizations/collaborating-with-groups-in-organizations/about-organizations)
 2. [https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/about-projects](https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/about-projects)
 3. [https://docs.github.com/en/organizations/organizing-members-into-teams/about-teams](https://docs.github.com/en/organizations/organizing-members-into-teams/about-teams)
@@ -10,28 +10,32 @@
 5. [https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)
 
 ---
-# Contents
+## Contents
 - [***Contents***](#contents)
   - [References](#references)
   - [1. GitHub Organization](#1-gitHub-organization)
-  - [1.1 About organization](#1-about-organization)
   - [2. GitHub Projects](#2-gitHub-projects)
   - [3. GitHub teams](#3-gitHub-teams)
   - [4. GitHub issues](#4-gitHub-issues)
   - [5. GitHub pull requests](#5-gitHub-pull-requests)
 
-### Process to follow when working on new project  
-## Process to follow for the first time
+## Process to follow when working on new project  
+### Process to follow for the first time
 1. Creat an organization 
 2. Assign members to the organization.
 3. Assign members of the organization into teams.
-## Process to follow with every new project
+### Process to follow with every new project
 1. Create a repository for the project.
 2. Assign team to the repository with the access permissions.
 3. Create an organization project.
-4. Create issues for every task within the project and assign them to the members of the team and assign them to the organization project.
-5. After finishing each issue raise a pull request with issue id # and the state of the issue (fixed,close,..).
-6. commit the change and push them to the main branch of the project or if you are working on a seprate branch merge it with the main branch.
+4. Create issues for every task within the project and for each issue 1-Assign the issue to a team member. 
+                                                                      2-Assign the issue to an organization project.
+                                                                      3-Assign label to the issue (bug,enhancment, etc..).
+                                                                      4-Assign a milestone to the issue.
+                                                        
+5. After finishing each issue, commit the change with the status of the issue (fixed,close,..).
+6.  Make a pull request and link it with issue #id.
+7.  After your pull request being reviewed by you or the team leader, If there is no conflict between branches, merge to the main branch. 
 
 #### 1. GitHub Organization
 ##### 1.1 About organization
