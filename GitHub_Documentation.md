@@ -15,15 +15,9 @@
   - [References](#references)
   - [1. GitHub Organization](#1-gitHub-organization)
   - [2. GitHub Projects](#2-gitHub-projects)
-  - [3. ROS2 Topics](#3-ros2-topics)
-  - [4. ROS2 Services](#4-ros2-services)
-  - [5. ROS2 Parameters](#5-ros2-parameters)
-  - [6. ROS2 Actions](#6-ros2-actions)
-  - [7. ROS2 Launch](#7-ros2-launch)
-  - [8. ROS2 Bags](#8-ros2-bags)
-  - [9. Creating a Workspace](#9-creating-a-workspace)
-  - [10. ROS2 Packages](#10-ros2-packages)
-  - [11. Creating a Package](#11-creating-a-package)
+  - [3. GitHub teams](#3-gitHub-teams)
+  - [4. GitHub issues](#4-gitHub-issues)
+  - [5. GitHub pull requests](#5-gitHub-pull-requests)
 
 ### Process to follow when working on new project  
 ## Process to follow for the first time
