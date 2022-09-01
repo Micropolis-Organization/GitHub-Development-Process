@@ -1,9 +1,8 @@
 /************************************************************************************************************/
 /* Author  : Name                                                                                           */
 /* Version : Version                                                                                        */
-/* Date    : Date  																						    */
-/*                                                                                        				    */
-/* Description of Interface file -> This file is for the implementation of the functions				    */
+/* Date    : Date  											    */                                                                                       	*/
+/* Description of Interface file -> This file is for the implementation of the functions	            */
 /************************************************************************************************************/
 
 /* including sequence */
@@ -21,7 +20,11 @@
 #include "TEMP_config.h"
 
 
+/* Naming Convention of arguments :
+	type Copy_ReturntypeIndicativeName
+*/
 /*example*/
+	
 void RCC_voidEnableClock(u8 Copy_u8BusId , u8 Copy_u8PerId )
 {
 	if (Copy_u8PerId <= 31)
